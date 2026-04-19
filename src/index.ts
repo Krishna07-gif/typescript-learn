@@ -1,2 +1,2 @@
-const greeting: string = "TypeScript is ready!";
+const greeting: string = "Hello Krishna, TypeScript is ready!";
 console.log(greeting);
